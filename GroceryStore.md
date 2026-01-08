@@ -1,3 +1,7 @@
+//this is the start of the program thanks for using my program and reach me out on smkvjand@gmail.com
+
+
+
 import java.util.Scanner;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
