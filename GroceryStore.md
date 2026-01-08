@@ -1,6 +1,15 @@
-//this is the start of the program thanks for using my program and reach me out on smkvjand@gmail.com
-
-
+/*
+ * Program Name  : Grocery Billing System
+ * Description   : This program generates a grocery bill by taking item details,
+ *                 quantities, and prices from the user and calculating the total.
+ *                 It also displays the date and time of billing.
+ *
+ * Author        : SriMuraliKrishna
+ * Contact       : smkvjand@gmail.com
+ * Created On    : 08-01-2026
+ *
+ * Note          : This is a beginner-level Java console application.
+ */
 
 import java.util.Scanner;
 import java.time.*;
